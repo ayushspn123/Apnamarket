@@ -7,7 +7,7 @@ This repository contains code and resources for Apna Market, an online grocery w
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
-3. [Usage](#usage)
+3. [Usage](#usage)  
 4. [Features](#features)
    - [Home Page](#home-page)
    - [Vegetable Section](#vegetable-section)
