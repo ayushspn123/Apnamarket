@@ -91,5 +91,5 @@ Apna Market is a Team  project
 Ayush Kumar <br/>
 Deepika Pandey <br/>
 Raman Bajpai <br/>
-Ansh Verma
+
 
