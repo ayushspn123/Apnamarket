@@ -88,7 +88,9 @@ Contributions to this project are welcome. If you find any issues or have ideas 
 #note
 Apna Market is a Team  project 
 # Team member:
+
 Ayush Kumar <br/>
+Sakshi Pal<br/>
 Deepika Pandey <br/>
 Raman Bajpai <br/>
 
